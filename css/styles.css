@@ -264,15 +264,18 @@ nav {
 
 /* Portadas específicas para páginas interiores */
 .hero-interior.nosotros {
-    background-image: url('../img/PORTADA_NOSOTROS.jpg');
+    background-image: url('../img/PORTADA_NOSOTROS_1.webp');
+    background-color: #1a1a1a;
 }
 
 .hero-interior.servicios {
-    background-image: url('../img/PORTADA_SERVICIOS.jpg');
+    background-image: url('../img/PORTADA_SERVICIOS_1.webp');
+    background-color: #1a1a1a;
 }
 
 .hero-interior.contacto {
-    background-image: url('../img/PORTADA_CONTACTO.jpg');
+    background-image: url('../img/PORTADA_CONTACTO.webp');
+    background-color: #1a1a1a;
 }
 
 /* Stats - Solo para inicio */
